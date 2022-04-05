@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add New parking"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:textColor="@color/colorSecondaryDark"
+        android:textStyle="bold"
+        android:padding="10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/gradiant_overlay">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="@integer/material_motion_duration_medium_2"
+
+            >
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="Longitude :"
+                android:textStyle="italic"
+                android:textSize="20dp"
+                android:layout_gravity="start"
+                android:gravity="start"
+                android:textColor="#ffff"
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:textColor="#ffff"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/longitude"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="20dp"
+            android:weightSum="@integer/material_motion_duration_medium_2"
+            >
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="latitude :"
+                android:textStyle="italic"
+                android:textSize="20dp"
+                android:layout_gravity="start"
+                android:gravity="start"
+                android:textColor="#ffff"
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:textColor="#ffff"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/latitude"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name:"
+            android:textStyle="italic"
+            android:textSize="20dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_marginLeft="20dp"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:hint="put your adresse "
+            android:id="@+id/adresse"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="price:"
+            android:textStyle="italic"
+            android:textSize="20dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_marginLeft="20dp"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:hint="price DT/H "
+            android:id="@+id/price"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="places:"
+            android:textStyle="italic"
+            android:textSize="20dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+        <EditText
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/places"
+            android:inputType="number"
+            />
+    </LinearLayout>
+
+    <Button
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="add"
+        android:background="@color/colorPrimaryDark"
+        android:id="@+id/add"
+        android:layout_below="@+id/latitude"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
+
+</RelativeLayout>

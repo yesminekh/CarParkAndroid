@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1435" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/backgrounborder.xml" value="0.1755" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/background_border2.xml" value="0.1755" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/bb.xml" value="0.188" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/gradiant_overlay.xml" value="0.2215" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/gradiant_splash.xml" value="0.1755" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/gradientbackground.xml" value="0.1775" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_add_location.xml" value="0.163" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.188" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_baseline_local_parking_24.xml" value="0.2075" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2065" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.115" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.13" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_baseline_time_to_leave_24.xml" value="0.192" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1435" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_logout.xml" value="0.1495" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_outline_edit_location_24.xml" value="0.115" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_outline_email_24.xml" value="0.115" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_outline_phone_24.xml" value="0.192" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_qr.xml" value="0.1005" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_twotone_email_24.xml" value="0.192" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_twotone_history_24.xml" value="0.115" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/ic_twotone_settings_24.xml" value="0.115" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/drawable/location_pin_up.xml" value="0.1745" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_ajoutparking.xml" value="0.12" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_forget_password.xml" value="0.176" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_forget_passwords.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_login.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_main2.xml" value="0.159375" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_main_activityowner.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_paiement.xml" value="0.178125" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_parkings_details.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_reservation.xml" value="0.12" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_reservationdetails.xml" value="0.22056159420289856" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_resetpassword.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/activity_verification.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/app_bar_main.xml" value="0.11220871327254306" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/content_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/createparking.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/custiomview.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/custom_dialogue_view.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_history.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_incomming_rides.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_list_parkings.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_map.xml" value="0.1" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_mapreservation.xml" value="0.1" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_maps_owner.xml" value="0.1" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_maptest.xml" value="0.1111111111111111" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_profile.xml" value="0.152" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_qr.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/fragment_settings.xml" value="0.2" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/historymodel.xml" value="0.264" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/item_image.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/itemloginsocial.xml" value="0.2" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/menuu.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/modelincomingsrides.xml" value="0.2" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/modellistparkings.xml" value="0.1" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/nav_header_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/payement.xml" value="0.2" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/qrcodedialogue.xml" value="0.176" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/reservationdetails.xml" value="0.264" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/scannerqr.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/sheetorder.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/singup.xml" value="0.176" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/testlogin.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/verificationsingup.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/layout/viewannotations.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/menu/appbar.xml" value="0.159375" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/menu/main_activity2.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/menu/menu.xml" value="0.2" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/menu/menu01.xml" value="0.12" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1435" />
+        <entry key="..\:/Users/yesmi/Desktop/CaryPark02/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1435" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/drawable/backgrounborder.xml" value="0.146" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/drawable/gradientbackground.xml" value="0.146" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.146" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/activity_ajoutparking.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/activity_forget_password.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/activity_login.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/activity_main.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/activity_main_activityowner.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/activity_parkings_details.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/activity_resetpassword.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/activity_verification.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/fragment_history.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/fragment_list_parkings.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/fragment_map.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/fragment_mapreservation.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/fragment_profile.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/fragment_settings.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/historymodel.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/itemloginsocial.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/menuu.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/modellistparkings.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/qrcodedialogue.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/singup.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/layout/viewannotations.xml" value="0.2" />
+        <entry key="..\:/Users/yesmi/Desktop/caryPark/CaryPark02/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/yesmi/Desktop/project/CaryPark02/app/src/main/res/drawable/background_border2.xml" value="0.1495" />
+        <entry key="..\:/Users/yesmi/Desktop/project/CaryPark02/app/src/main/res/drawable/ic_qr.xml" value="0.15" />
+        <entry key="..\:/Users/yesmi/Desktop/project/CaryPark02/app/src/main/res/layout/activity_forget_password.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/yesmi/Desktop/project/CaryPark02/app/src/main/res/layout/activity_main.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/yesmi/Desktop/project/CaryPark02/app/src/main/res/layout/fragment_history.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/yesmi/Desktop/project/CaryPark02/app/src/main/res/layout/fragment_list_parkings.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/yesmi/Desktop/project/CaryPark02/app/src/main/res/layout/fragment_profile.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/yesmi/Desktop/project/CaryPark02/app/src/main/res/layout/historymodel.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/yesmi/Desktop/project/CaryPark02/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
